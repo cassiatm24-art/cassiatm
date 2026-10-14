@@ -1,0 +1,6 @@
+{
+  "name": "KDS Pro - Sistema de Cozinha em Tempo Real",
+  "description": "Painel de controle de pedidos para cozinha (KDS) em tempo real com três frentes: Na fila, Em preparo e Pronto, controle de itens e gerador de SQL para Supabase com políticas de armazenamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
